@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.ram{
+    color:red
+}
+.ram~p{
+    color:rgba(79, 67, 240, 0.726)
+}
+
+.parent{
+    background-color: black;
+    color: aliceblue;
+    width:300px;
+    height: 200px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 18px 12px rgb(97, 92, 172);
+}
